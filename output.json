@@ -1,0 +1,41 @@
+{
+    "config":{
+        "mac":"88:15:44:50:c8:a2",
+        "iswireless":true,
+        "iswired":false,
+        "iswd":false,
+        "isswitch":false,
+        "node_name":"MIC-FL1-AP51",
+        "network_name":"MIC - wireless",
+        "product_model":"MR52",
+        "lat":"38.9314120341653",
+        "lng":"-94.3902611732483",
+        "claimed":true
+    },
+    "client":{
+        "ip":"10.231.56.57",
+        "mac":"54:13:79:53:E9:65",
+        "radio":"2",
+        "channel":"149",
+        "max_device_bitrate":"346",
+        "rssi":"39",
+        "channel_width":"20",
+        "wireless_mode":"11ac"
+    },
+    "connection_state":{
+        "config_fetched":true,
+        "is_wired_gateway":true,
+        "state":"gateway",
+        "wired_ip":"10.231.2.151",
+        "upgrading":false,
+        "dns":true,
+        "inet":true,
+        "wan_inet":true,
+        "mtun":true,
+        "lan":true,
+        "ipconflict":false
+    },
+    "local_ssids":{
+        "local_ssids":"MIC_Guest LSSD_HANDHELD LSSD_Secure UCMO-WiFi "
+    }
+}
